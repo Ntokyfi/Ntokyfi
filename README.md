@@ -36,7 +36,7 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 
 ### ✨ Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/fitiavana-herimanantsoa)
-- 📫 [Email](mailto:tonemail@example.com)
-- 🌐 [Portfolio](https://tonportfolio.com) (si disponible)
+- 📫 [Email](herimanantsoa.odilon@gmail.com)
+- 🌐 [Portfolio](https://tonportfolio.com)(pas encore disponible)
 
 Merci d'avoir visité mon profil, et n'hésitez pas à explorer mes projets ! 😊
