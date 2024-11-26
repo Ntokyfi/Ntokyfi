@@ -1,12 +1,12 @@
-# Bonjour, moi c'est YIR 👋
+# Bonjour, moi c'est HERIMANANTSOA 👋
 
-Je suis développeur passionné, basé à Madagascar, avec un intérêt particulier pour la **cybersécurité** et le **développement web**. Je travaille constamment pour améliorer mes compétences en **cybersécurité**, notamment dans le **Red Teaming**. 🚀
+Je suis développeur passionné, basé à Madagascar, avec un intérêt particulier pour la **cybersécurité** et le **Programation**. Je travaille constamment pour améliorer mes compétences en **cybersécurité**, notamment dans le **Red Teaming**. 🚀
 
 ---
 
 ### 🔧 Compétences techniques
 - **Langages de programmation** : Java, JavaScript, Python
-- **Frameworks** : Express.js, React, Three.js
+- **Frameworks** : Express.js, React, Three.js, Spring
 - **Outils et technologies** : VirtualBox, PF Sense, Filebeat, Snort, MySQL
 - **Environnement de développement** : Linux, Git, Docker
 
@@ -23,8 +23,7 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 
 ---
 
-### 📈 Mes statistiques GitHub
-![Yir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ntokyfi_R0H=true&theme=radical)
+
 
 ### ✨ Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)
