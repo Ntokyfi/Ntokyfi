@@ -26,8 +26,8 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 3. **Maquette 3D en Three.js** : Intégration d'une maquette d'hôtel en 3D pour une visite virtuelle sur mon site.
 
 ### 🎯 Objectifs actuels
-- Devenir un expert en **cybersécurité** et red teamer
-- Renforcer mes compétences en **développement backend**
+- Devenir un expert en **Ingenieur DevOps** et red teamer
+- Renforcer mes compétences en **programmation**
 - Apprendre le **mandarin** 🇨🇳
 
 ---
@@ -35,7 +35,7 @@ Voici quelques projets sur lesquels j'ai travaillé récemment :
 
 
 ### ✨ Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/fitiavana-herimanantsoa))
 - 📫 [Email](mailto:tonemail@example.com)
 - 🌐 [Portfolio](https://tonportfolio.com) (si disponible)
 
