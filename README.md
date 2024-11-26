@@ -6,11 +6,6 @@ Je suis développeur passionné, basé à Madagascar, avec un intérêt particul
 ---
 
 ### 🔧 Compétences techniques
-- **Langages de programmation** : Java, JavaScript, Python
-- **Frameworks** : Express.js, React, Three.js, Spring
-- **Outils et technologies** : VirtualBox, PF Sense, Filebeat, Snort, MySQL
-- **Environnement de développement** : Linux, Git, Docker
-🔧 Compétences techniques
 
     **Langages de programmation**:
     💻 Java | ✨ JavaScript | 🐍 Python
