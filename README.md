@@ -1,5 +1,5 @@
 # Bonjour, moi c'est HERIMANANTSOA 
-## Ou comme on le dit chez nous " 👋 Manahoana! "
+## Ou comme on le dit chez nous " 👋 Manao ahoana! "
 
 Je suis un développeur passionné, basé à Madagascar, avec un intérêt particulier pour la **cybersécurité** et le **Programation**. Je travaille constamment pour améliorer mes compétences et apprendre de nouvelles, notamment dans le **Red Teaming**. 🚀
 
