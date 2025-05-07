@@ -8,7 +8,8 @@ Je suis un développeur passionné, basé à Madagascar, avec un intérêt parti
 ### 🔧 Compétences techniques
 
    - **Langages de programmation**:   
- 💻 Java | ✨ JavaScript | 🐍 Python
+```💻 Java | ✨ JavaScript | 🐍 Python
+```
 
    - **Frameworks** :   
  🚀 Express.js | ⚛️ React | 🌌 Three.js | 🌱 Spring
